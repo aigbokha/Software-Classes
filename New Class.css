@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/* Osi Aigbokhaodes's CSS Document. 
+Not sure of the names, used the href from the one I created on Adobe
+*/
+
+body {
+	width: 910px;
+	margin: 1.5em auto; /* this + a defined width, centers the body content */
+	border-color: rgb(51,13,41);
+	border-style: solid;
+	border-width: 10px;
+	padding: 50px;
+	font-family : Garamond, "Times Roman", serif;
+	background-color: rgb(104,39,29);
+	background: url('../Documents/cas204/untitled folder/final/wallpaper.jpg');
+	background-repeat: repeat;
+	color: #999;
+}
+
+#nav {
+	list-style:none;
+	background-color: #300;
+	list-style:none;
+	text-align:center;
+	padding:5px;
+}
+
+#nav a {
+	list-style:none;
+	color:#FFF;
+	border-left:2px solid #999;
+	padding-right:20px;
+	padding-left:20px;
+	
+	
+}
+
+#nav li{
+	display:inline;
+
+}
+
+#firstnav a{
+	border-left:none;
+}
+
+#nav a:hover{
+	font-weight: bold;
+	color: rgb(153,0,153);
+	text-decoration: none;
+}
+
+#header {
+	list-style:none;
+	background-color: #300;
+	list-style:none;
+	text-align:left;
+	padding:5px;
+}
+  	
+
+html {
+	
+	background-image: url('../Documents/cas204/untitled folder/final/Fire_Seamless_tile_by_suicidecrew.jpg');
+	background-repeat:repeat;
+	background-color: rgb(153,69,33);
+}
+
+h1, h2, h3 {
+  font-family : Verdana, Arial, Helvetice, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: #999;
+}
+
+h2 {
+	padding: 7px;
+	color: rgb(238,128,0);
+}
+
+h3 {
+	color: rgb(128,0,0);
+	
+}
+h4 {
+	color: #0FF;
+	font-family:  Garamond, "Times Roman", serif;
+	font-weight: lighter;
+	text-decoration: blink;
+	font-style: italic;
+}
+
+img {
+	border-color: #039;
+	border-style: solid;
+	border-width: 5px;
+}
+
+a {
+	font-weight: bold;
+	color: #06C;
+}
+acronym {
+	border-bottom: 1px dashed rgb(50,12,51);
+}
+a:link {
+	color: #066;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	color: rgb(53,200,13);
+	text-decoration: overline;
+	font-weight: lighter;
+}
+
+a:hover {
+	font-weight: bold;
+	color: rgb(153,0,153);
+	text-decoration: underline;
+}
+
+
+a:active {
+	color: rgb(153,153,0);
+	text-decoration: none;
+}
