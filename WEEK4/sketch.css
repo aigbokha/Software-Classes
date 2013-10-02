@@ -1,0 +1,31 @@
+body {
+	background: #ccc;
+	margin:0;
+	border-top:5px solid #424242;
+	font-family:"Helvetica",sans-serif;
+	line-height:1.4em;
+	background: url('wallpaper.jpg');
+	background-repeat: repeat;
+}
+
+h1, h2, h3 {
+  font-family : Verdana, Arial, Helvetice, sans-serif;
+}
+
+h1 {
+	background:#aaa;
+	padding:20px 15px;
+	color: #fff;
+	text-shadow: 1px 4px 2px #424242;
+	margin:0;
+	text-align: center;
+	text-decoration: blink;
+	font-weight: lighter;
+}
+
+img {
+	border-color: #039;
+	border-style: solid;
+	border-width: 5px;
+	margin:20px 15px 20px 140px;
+}
