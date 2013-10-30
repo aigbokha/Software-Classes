@@ -1,0 +1,61 @@
+body {
+	background: url(http://cl.ly/image/0s0R2r2m0c1k);
+	margin:0;
+	font-family:"Helvetica",sans-serif;
+	line-height:1.4em;
+}
+
+h1,h2,h3 {
+	margin:0;
+}
+
+h1 {
+	background:url(http://f.cl.ly/items/2t271U0P1K3B3X2a1D2R/logo.png) no-repeat;
+	height: 100px;
+	width: 800px;
+	text-indent: -9000px;
+	margin: 20px 0 10px 0;
+	padding:20px 15px;
+	color: #fff;
+}
+
+.container {
+	margin:0 auto;
+	background: #fff;
+	width:600px;
+}
+
+h2 {
+	margin-bottom: 5px;
+}
+
+h3 {
+	margin-bottom: 5px;
+	font-weight: normal;
+}
+
+hgroup {
+	color: #fff;
+	margin: 0 0 40px 0;
+}
+
+#recipes{
+	padding:15px;
+	background: url(http://f.cl.ly/items/3E1r2L3D0Q1B3c0d000A/yum.jpg) no-repeat;
+	border-top: 10px solid #222;
+}
+
+
+article {
+	margin: 240px 0 0 0;
+}
+
+
+table, tr, td {
+	border:1px solid #ccc;
+	border-collapse:collapse;
+}
+
+table td {
+	padding:5px;
+}
