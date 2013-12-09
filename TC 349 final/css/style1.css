@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@import url("index.html.css");
+
+/*background color, font, and font color*/
+
+body {
+	font-family : Garamond, "Times Roman", serif;
+	background-color: rgb(104,39,29);
+	color: #999;
+}
+ 
+ 
